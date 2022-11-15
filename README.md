@@ -9,7 +9,7 @@
 “database”: “your db”,<br>
 “host”: “127.0.0.1”,<br>
 “dialect”: “mysql”</li>
-<li class="has-line-data" data-line-start="10" data-line-end="11">npx sequelize-cli db:migrate</li>
+<li class="has-line-data" data-line-start="10" data-line-end="11">run npx sequelize-cli db:migrate</li>
 <li class="has-line-data" data-line-start="11" data-line-end="11">run npm start</li>
 <li class="has-line-data" data-line-start="12" data-line-end="12">your application running in port 8080</li>
 </ol>
